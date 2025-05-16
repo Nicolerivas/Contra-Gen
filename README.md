@@ -1,2 +1,4 @@
-# Contra-Gen
-Script generador de contraseñas
+### GENERADOR DE CONTRASEÑAS 
+### CREADO POR NICOLE 
+
+# BIENVENIDO GRACIAS POR APOYAR EL PROYECTO 
